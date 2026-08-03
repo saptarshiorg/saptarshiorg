@@ -1,85 +1,204 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D0221,30:7B2FF7,60:C724B1,100:00F0FF&text=RISHI%20FORGE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20•%20Create%20•%20Stream&descAlignY=55&descColor=00F0FF&stroke=00F0FF&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=⚡%20RISHI%20FORGE%20⚡&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=00F5FF&color=0:050816,50:111827,100:00E5FF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+RISHI;Founder+of+RISHI+FORGE+%E2%9A%A1;Web+Developer+%F0%9F%87%AE%F0%9F%87%B3+India;Free+TV+%26+Sports+Streaming+%F0%9F%93%BA;%231+Streamer+in+East+India+%F0%9F%8F%86"/>
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Cyberpunk+Developer;Open+Source+Creator;Web+Developer;Streaming+Platform+Builder;JavaScript+%7C+API+%7C+Cloud"/>
 
-<br>
-
-<!-- App-style tab bar -->
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/⚙️_STACK-0D0221?style=for-the-badge&color=7B2FF7"></a>
-<a href="#-games-i-play"><img src="https://img.shields.io/badge/🎮_GAMES-0D0221?style=for-the-badge&color=FF00E5"></a>
-<a href="#-featured-project"><img src="https://img.shields.io/badge/🚀_PROJECT-0D0221?style=for-the-badge&color=00F0FF"></a>
-<a href="#-github-stats"><img src="https://img.shields.io/badge/📊_STATS-0D0221?style=for-the-badge&color=7B2FF7"></a>
-<a href="#-connect-with-me"><img src="https://img.shields.io/badge/📡_CONNECT-0D0221?style=for-the-badge&color=FF00E5"></a>
+<img src="https://komarev.com/ghpvc/?username=rishiforge&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 
 </div>
 
-<!--
-  NOTE: GitHub's markdown sanitizer strips background-color / custom
-  CSS from raw HTML (tables, divs), so a real cyberpunk background
-  behind text is not possible with HTML — it always renders on
-  GitHub's plain default panel. The fix: bake every section into an
-  SVG *image* instead. Images aren't sanitized, so the dark gradient,
-  neon glow, and grid pattern render exactly as drawn, section after
-  section, giving the whole page one continuous cyberpunk backdrop.
+---
 
-  Files referenced below live in assets/ in this repo — commit them
-  there (or update the src paths to wherever you place them):
-    assets/profile-card.svg
-    assets/tech-stack.svg
-    assets/games.svg
-    assets/project.svg
-    assets/connect.svg
--->
+# <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30"> Rishi Profile
+
+```yaml
+Name      : RISHI
+Username  : RISHI FORGE
+Country   : India 🇮🇳
+State     : West Bengal
+Role      : Web Developer
+Focus      : APIs • Automation • UI/UX • Open Source
+Currently  : Building SX Sports
+Instagram : @rishi.ev
+YouTube   : SaptarshiSamanataOfficial
+```
+
+---
+
+# ⚡ About Me
+
+```text
+> Building futuristic web experiences.
+> Passionate about APIs & Automation.
+> Loves creating streaming dashboards.
+> Open Source enthusiast.
+> JavaScript addict.
+> Cyberpunk UI Designer.
+```
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,github,git,vscode,cloudflare,firebase,vercel,netlify,linux,python,mongodb"/>
+
+</p>
+
+---
+
+# 🚀 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishiforge&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiforge&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishiforge&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiforge&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎮 Games I Play
 
 <div align="center">
-<img src="assets/profile-card.svg" width="100%" alt="Rishi profile card"/>
+
+| 🎮 Game | Status |
+|---------|--------|
+| GTA V | 🔥 |
+| GTA IV | ⚡ |
+| CS2 | 💥 |
+| Valorant | 🎯 |
+| Minecraft | ⛏ |
+| FIFA / EA FC | ⚽ |
+| Cricket 24 | 🏏 |
+| Asphalt | 🚗 |
+
 </div>
+
+---
+
+# 🌟 Featured Project
 
 <div align="center">
-<img src="assets/tech-stack.svg" width="100%" alt="Tech stack"/>
+
+# ⚽ SX Sports
+
+### Ultimate Sports Streaming Platform
+
+🏏 Cricket
+
+⚽ Football
+
+🏎 Formula 1
+
+🎾 Tennis
+
+🥊 UFC
+
+📺 IPTV
+
+🎬 OTT Dashboard
+
+⚡ Live APIs
+
+🌍 Responsive UI
+
+🚀 Fast Streaming
+
 </div>
 
-<h2 id="-games-i-play" hidden></h2>
+---
+
+# 🧩 What I Build
+
+```text
+⚡ Streaming Platforms
+⚡ IPTV Dashboards
+⚡ APIs
+⚡ Sports Websites
+⚡ Modern UI
+⚡ GitHub Projects
+⚡ Open Source Tools
+⚡ Automation Scripts
+```
+
+---
+
+# 🧠 Currently Learning
+
+```
+JavaScript Advanced
+Node.js
+Cloud APIs
+Backend Development
+Modern UI/UX
+Cyberpunk Interfaces
+```
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/rishi.ev">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://youtube.com/@SaptarshiSamanataOfficial">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rishiforge">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
-<img src="assets/games.svg" width="100%" alt="Games I play"/>
-</div>
 
-<h2 id="-featured-project" hidden></h2>
-<div align="center">
-<img src="assets/project.svg" width="100%" alt="Featured project — SX Sports"/>
+```
+██████╗ ██╗███████╗██╗  ██╗██╗
+██╔══██╗██║██╔════╝██║  ██║██║
+██████╔╝██║███████╗███████║██║
+██╔══██╗██║╚════██║██╔══██║██║
+██║  ██║██║███████║██║  ██║██║
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝
+```
 
-<a href="https://saptarshiorg.github.io"><img src="https://img.shields.io/badge/▶️_WATCH_LIVE-00F0FF?style=for-the-badge&logoColor=0D0221"></a>
-<a href="https://github.com/saptarshiorg"><img src="https://img.shields.io/badge/VIEW_SOURCE-7B2FF7?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
+### ⚡ "Forge the Future. Build Beyond Limits."
 
-<h2 id="-github-stats" hidden></h2>
-<div align="center">
-
-<img height="175" src="https://github-stats-extended.vercel.app/api?username=saptarshiorg&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=FF00E5&text_color=ffffff&bg_color=0D0221"/>
-<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saptarshiorg&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0D0221"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=saptarshiorg&theme=tokyonight&hide_border=true&background=0D0221&ring=7B2FF7&fire=00F0FF&currStreakLabel=00F0FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,100:050816"/>
 
 </div>
-
-<h2 id="-connect-with-me" hidden></h2>
-<div align="center">
-<img src="assets/connect.svg" width="100%" alt="Connect with me"/>
-
-<a href="https://github.com/saptarshiorg"><img src="https://img.shields.io/badge/GitHub-Follow-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF"></a>
-<a href="https://instagram.com/rishi.ev"><img src="https://img.shields.io/badge/Instagram-Follow-0D0221?style=for-the-badge&logo=instagram&logoColor=FF00E5"></a>
-<a href="https://www.youtube.com/@saptarshisamantaofficial"><img src="https://img.shields.io/badge/YouTube-Subscribe-0D0221?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
-<a href="https://saptarshiorg.github.io"><img src="https://img.shields.io/badge/Website-Visit-0D0221?style=for-the-badge&logoColor=00F0FF"></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=saptarshiorg&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D0221,35:7B2FF7,70:C724B1,100:00F0FF"/>

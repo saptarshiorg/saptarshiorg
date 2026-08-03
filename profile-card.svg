@@ -1,0 +1,111 @@
+<svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0221"/>
+      <stop offset="50%" stop-color="#150a2e"/>
+      <stop offset="100%" stop-color="#1a0b2e"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowMagenta" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF00E5" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#FF00E5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7B2FF7" stroke-width="0.5" opacity="0.15"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1000" height="500" fill="url(#bg)"/>
+  <rect width="1000" height="500" fill="url(#grid)"/>
+  <circle cx="60" cy="30" r="180" fill="url(#glowCyan)"/>
+  <circle cx="960" cy="470" r="200" fill="url(#glowMagenta)"/>
+
+  <!-- top status pills -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold">
+    <rect x="40" y="24" width="130" height="34" rx="17" fill="#150a2e" stroke="#7B2FF7" stroke-width="1.2"/>
+    <text x="105" y="46" fill="#ffffff" text-anchor="middle">🇮🇳 India</text>
+
+    <rect x="182" y="24" width="160" height="34" rx="17" fill="#150a2e" stroke="#00F0FF" stroke-width="1.2"/>
+    <text x="262" y="46" fill="#00F0FF" text-anchor="middle">🟢 Building</text>
+
+    <rect x="354" y="24" width="230" height="34" rx="17" fill="#150a2e" stroke="#FF00E5" stroke-width="1.2"/>
+    <text x="469" y="46" fill="#FF00E5" text-anchor="middle">🏆 #1 Streamer — East India</text>
+  </g>
+
+  <!-- LEFT: terminal card -->
+  <rect x="40" y="80" width="460" height="380" rx="14" fill="#0B0716" stroke="#00F0FF" stroke-width="1.4" filter="url(#softGlow)"/>
+  <rect x="40" y="80" width="460" height="34" rx="14" fill="#120a24"/>
+  <rect x="40" y="98" width="460" height="16" fill="#120a24"/>
+  <circle cx="62" cy="97" r="6" fill="#FF5F56"/>
+  <circle cx="82" cy="97" r="6" fill="#FFBD2E"/>
+  <circle cx="102" cy="97" r="6" fill="#27C93F"/>
+  <text x="270" y="101" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b8b9e" text-anchor="middle">rishi.js</text>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="15">
+    <text x="60" y="150" fill="#FF00E5">const</text>
+    <text x="112" y="150" fill="#ffffff"> rishi</text>
+    <text x="168" y="150" fill="#00F0FF"> = {</text>
+
+    <text x="80" y="180" fill="#7ee6ff">location:</text>
+    <text x="230" y="180" fill="#ffffff">"🇮🇳 India",</text>
+
+    <text x="80" y="208" fill="#7ee6ff">role:</text>
+    <text x="230" y="208" fill="#ffffff">"Founder @ RISHI FORGE",</text>
+
+    <text x="80" y="236" fill="#7ee6ff">focus:</text>
+    <text x="230" y="236" fill="#ffb3f4">["Web Dev","Automation",</text>
+    <text x="230" y="256" fill="#ffb3f4">"Open Source"],</text>
+
+    <text x="80" y="284" fill="#7ee6ff">passion:</text>
+    <text x="230" y="284" fill="#ffffff">"Free TV &amp; Sports",</text>
+
+    <text x="80" y="312" fill="#7ee6ff">building:</text>
+    <text x="230" y="312" fill="#ffffff">"SX Sports",</text>
+
+    <text x="80" y="340" fill="#7ee6ff">status:</text>
+    <text x="230" y="340" fill="#a8ffcf">"#1 Streamer, East India",</text>
+
+    <text x="80" y="368" fill="#7ee6ff">motto:</text>
+    <text x="230" y="368" fill="#a8ffcf">"Forge ideas into</text>
+    <text x="230" y="388" fill="#a8ffcf">reality, one line at a time."</text>
+
+    <text x="60" y="420" fill="#00F0FF">}</text>
+  </g>
+
+  <!-- RIGHT: info card -->
+  <rect x="520" y="80" width="440" height="380" rx="14" fill="#0B0716" stroke="#FF00E5" stroke-width="1.4" filter="url(#softGlow)"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#ffffff">
+    <text x="550" y="130">🌐</text>
+    <text x="585" y="130"><tspan font-weight="bold" fill="#00F0FF">Web Developer</tspan><tspan fill="#c7c7d9"> — modern, fast websites</tspan></text>
+
+    <text x="550" y="175">⚡</text>
+    <text x="585" y="175"><tspan font-weight="bold" fill="#00F0FF">JS &amp; Node.js</tspan><tspan fill="#c7c7d9"> — core of everything I ship</tspan></text>
+
+    <text x="550" y="220">🤖</text>
+    <text x="585" y="220"><tspan font-weight="bold" fill="#00F0FF">Automation</tspan><tspan fill="#c7c7d9"> — workflows that save time</tspan></text>
+
+    <text x="550" y="265">📺</text>
+    <text x="585" y="265"><tspan font-weight="bold" fill="#FF00E5">Streaming</tspan><tspan fill="#c7c7d9"> — Free TV &amp; Sports, my focus</tspan></text>
+
+    <text x="550" y="310">🚀</text>
+    <text x="585" y="310"><tspan font-weight="bold" fill="#FF00E5">Open Source</tspan><tspan fill="#c7c7d9"> — always giving back</tspan></text>
+
+    <text x="550" y="355">🏆</text>
+    <text x="585" y="355"><tspan font-weight="bold" fill="#FF00E5">#1 Streamer</tspan><tspan fill="#c7c7d9"> — East India title</tspan></text>
+
+    <text x="550" y="400">🔥</text>
+    <text x="585" y="400"><tspan font-weight="bold" fill="#00F0FF">Status</tspan><tspan fill="#c7c7d9"> — always building something new</tspan></text>
+  </g>
+</svg>

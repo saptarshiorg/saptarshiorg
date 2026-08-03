@@ -1,0 +1,38 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0221"/>
+      <stop offset="50%" stop-color="#150a2e"/>
+      <stop offset="100%" stop-color="#1a0b2e"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7B2FF7" stroke-width="0.5" opacity="0.15"/>
+    </pattern>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="260" fill="url(#bg)"/>
+  <rect width="1000" height="260" fill="url(#grid)"/>
+  <circle cx="150" cy="30" r="200" fill="url(#glowCyan)"/>
+
+  <rect x="40" y="30" width="920" height="200" rx="16" fill="#0B0716" stroke="#00F0FF" stroke-width="1.4" filter="url(#softGlow)"/>
+
+  <text x="500" y="85" font-family="Orbitron, Segoe UI, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">📺 SX Sports</text>
+  <text x="500" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c7c7d9" text-anchor="middle">Free TV &amp; Sports streaming platform — live cricket, football, and more,</text>
+  <text x="500" y="142" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c7c7d9" text-anchor="middle">under Rishi Entertainment Verse.</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold">
+    <rect x="330" y="165" width="160" height="40" rx="20" fill="#00F0FF"/>
+    <text x="410" y="190" fill="#0D0221" text-anchor="middle">▶️ WATCH LIVE</text>
+
+    <rect x="510" y="165" width="160" height="40" rx="20" fill="#150a2e" stroke="#7B2FF7" stroke-width="1.2"/>
+    <text x="590" y="190" fill="#ffffff" text-anchor="middle">VIEW SOURCE</text>
+  </g>
+</svg>

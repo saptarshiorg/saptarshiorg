@@ -1,0 +1,83 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0221"/>
+      <stop offset="50%" stop-color="#150a2e"/>
+      <stop offset="100%" stop-color="#1a0b2e"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7B2FF7" stroke-width="0.5" opacity="0.15"/>
+    </pattern>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#bg)"/>
+  <rect width="1000" height="220" fill="url(#grid)"/>
+  <circle cx="500" cy="0" r="220" fill="url(#glowCyan)"/>
+
+  <text x="500" y="45" font-family="Orbitron, Segoe UI, sans-serif" font-size="20" font-weight="bold" fill="#00F0FF" text-anchor="middle">⚙ TECH STACK</text>
+
+  <!-- pills row 1 -->
+  <g font-family="Consolas, Menlo, monospace" font-size="14" font-weight="bold">
+    <!-- x positions computed to center 6 pills per row, 130 width, 16 gap -->
+    <g transform="translate(48,70)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#00F0FF" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">HTML5</text>
+    </g>
+    <g transform="translate(213,70)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#FF00E5" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">CSS3</text>
+    </g>
+    <g transform="translate(378,70)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#7B2FF7" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">JavaScript</text>
+    </g>
+    <g transform="translate(543,70)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#00F0FF" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">Node.js</text>
+    </g>
+    <g transform="translate(708,70)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#FF00E5" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">Git</text>
+    </g>
+    <g transform="translate(802,70)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#7B2FF7" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">GitHub</text>
+    </g>
+  </g>
+
+  <!-- pills row 2 -->
+  <g font-family="Consolas, Menlo, monospace" font-size="14" font-weight="bold">
+    <g transform="translate(48,130)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#00F0FF" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">Cloudflare</text>
+    </g>
+    <g transform="translate(213,130)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#FF00E5" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">Linux</text>
+    </g>
+    <g transform="translate(378,130)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#7B2FF7" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">Firebase</text>
+    </g>
+    <g transform="translate(543,130)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#00F0FF" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">Vercel</text>
+    </g>
+    <g transform="translate(708,130)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#FF00E5" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">VS Code</text>
+    </g>
+    <g transform="translate(802,130)">
+      <rect width="150" height="40" rx="20" fill="#0B0716" stroke="#7B2FF7" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="75" y="26" fill="#ffffff" text-anchor="middle">npm</text>
+    </g>
+  </g>
+</svg>

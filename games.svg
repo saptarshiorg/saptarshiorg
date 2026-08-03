@@ -1,0 +1,57 @@
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0221"/>
+      <stop offset="50%" stop-color="#150a2e"/>
+      <stop offset="100%" stop-color="#1a0b2e"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7B2FF7" stroke-width="0.5" opacity="0.15"/>
+    </pattern>
+    <radialGradient id="glowMagenta" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF00E5" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#FF00E5" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="200" fill="url(#bg)"/>
+  <rect width="1000" height="200" fill="url(#grid)"/>
+  <circle cx="500" cy="200" r="220" fill="url(#glowMagenta)"/>
+
+  <text x="500" y="45" font-family="Orbitron, Segoe UI, sans-serif" font-size="20" font-weight="bold" fill="#FF00E5" text-anchor="middle">🎮 GAMES I PLAY</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold">
+    <g transform="translate(24,70)">
+      <rect width="132" height="40" rx="20" fill="#0B0716" stroke="#62B47A" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="66" y="26" fill="#ffffff" text-anchor="middle">Minecraft</text>
+    </g>
+    <g transform="translate(172,70)">
+      <rect width="132" height="40" rx="20" fill="#0B0716" stroke="#F7A800" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="66" y="26" fill="#ffffff" text-anchor="middle">GTA V</text>
+    </g>
+    <g transform="translate(320,70)">
+      <rect width="132" height="40" rx="20" fill="#0B0716" stroke="#FF6600" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="66" y="26" fill="#ffffff" text-anchor="middle">Free Fire</text>
+    </g>
+    <g transform="translate(468,70)">
+      <rect width="132" height="40" rx="20" fill="#0B0716" stroke="#F2A900" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="66" y="26" fill="#ffffff" text-anchor="middle">PUBG</text>
+    </g>
+    <g transform="translate(616,70)">
+      <rect width="132" height="40" rx="20" fill="#0B0716" stroke="#E96124" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="66" y="26" fill="#ffffff" text-anchor="middle">BGMI</text>
+    </g>
+    <g transform="translate(764,70)">
+      <rect width="132" height="40" rx="20" fill="#0B0716" stroke="#C51111" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="66" y="26" fill="#ffffff" text-anchor="middle">Among Us</text>
+    </g>
+    <g transform="translate(360,128)">
+      <rect width="280" height="40" rx="20" fill="#0B0716" stroke="#8B5CF6" stroke-width="1.2" filter="url(#softGlow)"/>
+      <text x="140" y="26" fill="#ffffff" text-anchor="middle">Clash of Clans</text>
+    </g>
+  </g>
+</svg>

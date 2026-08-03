@@ -16,6 +16,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/🇮🇳-India-7B2FF7?style=for-the-badge&labelColor=0D0221">
 <img src="https://img.shields.io/badge/Status-Building-00F0FF?style=for-the-badge&labelColor=0D0221">
+<img src="https://img.shields.io/badge/🏆-%231%20Streamer%20in%20East%20India-FF00E5?style=for-the-badge&labelColor=0D0221">
 </p>
 
 <p align="center">
@@ -43,12 +44,6 @@
   }
 ```
 
-- 🌐 Building modern, fast, and reliable websites
-- ⚡ JavaScript & Node.js at the core of everything I ship
-- 🤖 Automation workflows that save time and scale effort
-- 📺 Free TV & Sports Streaming — my flagship focus
-- 🚀 Open Source, always giving back to the community
-
 ---
 
 ## 🛠 Tech Stack
@@ -62,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=saptarshiorg&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=7B2FF7&text_color=ffffff&bg_color=0D0221"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshiorg&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0D0221"/>
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=saptarshiorg&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=7B2FF7&text_color=ffffff&bg_color=0D0221"/>
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saptarshiorg&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0D0221"/>
 </p>
 
 <p align="center">

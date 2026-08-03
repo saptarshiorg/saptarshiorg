@@ -1,52 +1,79 @@
+````markdown
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:2563EB,100:38BDF8&text=RISHI%20FORGE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20•%20Create%20•%20Innovate&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:071B4F,50:2563EB,100:38BDF8&text=RISHI%20FORGE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20with%20Code&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+I'm+RISHI+FORGE;Web+Developer;Open+Source+Creator;Building+Modern+Web+Apps;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi+👋+I'm+RISHI;Founder+of+RISHI+FORGE;Web+Developer+%7C+Open+Source;Free+Sports+Streaming;Always+Building+Something+New"/>
 </p>
 
-<h1 align="center">⚡ RISHI FORGE</h1>
+<h1 align="center">⚡ RISHI FORGE ⚡</h1>
 
 <p align="center">
-Building modern web experiences with clean code and creative ideas.
+Modern Web Development • Open Source • Automation • Sports Streaming
 </p>
 
 <p align="center">
+
 <a href="https://github.com/saptarshiorg">
-<img src="https://img.shields.io/badge/GitHub-saptarshiorg-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-saptarshiorg-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://saptarshiorg.github.io/me">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge">
+<a href="https://saptarshiorg.github.io">
+<img src="https://img.shields.io/badge/🌐%20Free%20Sports%20Streaming-Visit%20Now-2563EB?style=for-the-badge"/>
 </a>
+
+<a href="https://instagram.com/rishi.ev">
+<img src="https://img.shields.io/badge/Instagram-@rishi.ev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=saptarshiorg&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
+
 </p>
 
 ---
 
-# 👋 About Me
+# 🚀 About Me
 
-- 🌐 Web Development
-- ⚡ JavaScript
-- 🎨 UI / UX
-- 🤖 Automation
-- ☁️ Cloud Deployment
-- 📦 APIs
-- 🚀 Open Source
+```javascript
+const rishi = {
+  brand: "RISHI FORGE",
+  role: "Web Developer",
+  passion: [
+    "Modern Websites",
+    "Open Source",
+    "Automation",
+    "GitHub Projects",
+    "Sports Streaming"
+  ],
+  website: "https://saptarshiorg.github.io",
+  instagram: "@rishi.ev"
+};
+```
 
 ---
 
-# 🛠 Tech Stack
+# ⚙️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,linux,vscode,cloudflare,firebase,vercel,npm&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,cloudflare,linux,firebase,vercel,vscode,npm&theme=dark"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🌟 Featured Projects
+
+- 🏏 Free Sports Streaming Platform
+- ⚡ GitHub Automation
+- 🌐 Responsive Websites
+- 📦 JSON & REST APIs
+- 🤖 Smart Web Tools
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -68,7 +95,7 @@ Building modern web experiences with clean code and creative ideas.
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -82,40 +109,33 @@ Building modern web experiences with clean code and creative ideas.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saptarshiorg&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saptarshiorg&theme=tokyonight&no-frame=true&margin-w=12"/>
 
 </p>
 
 ---
 
-# 🌎 Connect
+# 🌍 Find Me
 
 <p align="center">
 
-<a href="https://github.com/saptarshiorg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+💻 **GitHub** • https://github.com/saptarshiorg
 
-<a href="https://saptarshiorg.github.io/me">
-<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge">
-</a>
+🌐 **Website** • https://saptarshiorg.github.io
+
+📸 **Instagram** • https://instagram.com/rishi.ev
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💙 Quote
 
-> **"Every great project begins with a single line of code."**
+> **"Forge ideas into reality—one line of code at a time."**
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saptarshiorg&style=for-the-badge&color=2563EB"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:071B4F,50:2563EB,100:38BDF8"/>
 </p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B1220,50:2563EB,100:38BDF8"/>
-</p>
+````

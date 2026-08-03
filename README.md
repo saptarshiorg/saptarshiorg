@@ -7,96 +7,55 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/🇮🇳_India-0D0221?style=for-the-badge&labelColor=7B2FF7&color=0D0221">
-<img src="https://img.shields.io/badge/🟢_Status-Building-0D0221?style=for-the-badge&labelColor=00F0FF&color=0D0221">
-<img src="https://img.shields.io/badge/🏆_%231_Streamer-East%20India-0D0221?style=for-the-badge&labelColor=FF00E5&color=0D0221">
-
-<br><br>
-
 <!-- App-style tab bar -->
-<a href="#-about-me"><img src="https://img.shields.io/badge/🏠_HOME-16101f?style=for-the-badge&color=7B2FF7"></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/⚙️_STACK-16101f?style=for-the-badge&color=00F0FF"></a>
-<a href="#-games-i-play"><img src="https://img.shields.io/badge/🎮_GAMES-16101f?style=for-the-badge&color=FF00E5"></a>
-<a href="#-featured-project"><img src="https://img.shields.io/badge/🚀_PROJECT-16101f?style=for-the-badge&color=7B2FF7"></a>
-<a href="#-github-stats"><img src="https://img.shields.io/badge/📊_STATS-16101f?style=for-the-badge&color=00F0FF"></a>
-<a href="#-connect-with-me"><img src="https://img.shields.io/badge/📡_CONNECT-16101f?style=for-the-badge&color=FF00E5"></a>
-
-<br><br>
-
-<a href="https://github.com/saptarshiorg"><img src="https://img.shields.io/badge/GitHub-saptarshiorg-181717?style=for-the-badge&logo=github&logoColor=00F0FF"></a>
-<a href="https://saptarshiorg.github.io"><img src="https://img.shields.io/badge/Website-Live-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://instagram.com/rishi.ev"><img src="https://img.shields.io/badge/Instagram-@rishi.ev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.youtube.com/@saptarshisamantaofficial"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/⚙️_STACK-0D0221?style=for-the-badge&color=7B2FF7"></a>
+<a href="#-games-i-play"><img src="https://img.shields.io/badge/🎮_GAMES-0D0221?style=for-the-badge&color=FF00E5"></a>
+<a href="#-featured-project"><img src="https://img.shields.io/badge/🚀_PROJECT-0D0221?style=for-the-badge&color=00F0FF"></a>
+<a href="#-github-stats"><img src="https://img.shields.io/badge/📊_STATS-0D0221?style=for-the-badge&color=7B2FF7"></a>
+<a href="#-connect-with-me"><img src="https://img.shields.io/badge/📡_CONNECT-0D0221?style=for-the-badge&color=FF00E5"></a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:7B2FF7,50:00F0FF,100:FF00E5"/>
-
-<h2 id="-about-me">🌌&nbsp; About Me</h2>
 
 <!--
   NOTE: GitHub's markdown sanitizer strips background-color / custom
   CSS from raw HTML (tables, divs), so a real cyberpunk background
-  behind text is not possible with an HTML table — it always renders
-  on GitHub's plain default panel. The fix: bake the whole card into
-  an SVG *image* instead. Images aren't sanitized, so the dark
-  gradient, neon glow, and grid pattern all render exactly as drawn.
+  behind text is not possible with HTML — it always renders on
+  GitHub's plain default panel. The fix: bake every section into an
+  SVG *image* instead. Images aren't sanitized, so the dark gradient,
+  neon glow, and grid pattern render exactly as drawn, section after
+  section, giving the whole page one continuous cyberpunk backdrop.
 
-  This file is at assets/about-me.svg in this repo — make sure you
-  commit it there (or update the src path below to wherever you put it).
+  Files referenced below live in assets/ in this repo — commit them
+  there (or update the src paths to wherever you place them):
+    assets/profile-card.svg
+    assets/tech-stack.svg
+    assets/games.svg
+    assets/project.svg
+    assets/connect.svg
 -->
 
 <div align="center">
-<img src="assets/about-me.svg" width="100%" alt="About Rishi"/>
+<img src="assets/profile-card.svg" width="100%" alt="Rishi profile card"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF00E5,50:00F0FF,100:7B2FF7"/>
-
-<h2 id="-tech-stack">🛠&nbsp; Tech Stack</h2>
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,cloudflare,linux,firebase,vercel,vscode,npm&theme=dark"/>
-
+<img src="assets/tech-stack.svg" width="100%" alt="Tech stack"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:7B2FF7,50:00F0FF,100:FF00E5"/>
-
-<h2 id="-games-i-play">🎮&nbsp; Games I Play</h2>
-
+<h2 id="-games-i-play" hidden></h2>
 <div align="center">
-
-<img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white">
-<img src="https://img.shields.io/badge/GTA%20V-F7A800?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Free%20Fire-FF6600?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/PUBG-F2A900?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/BGMI-E96124?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Among%20Us-C51111?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Clash%20of%20Clans-8B5CF6?style=for-the-badge&logoColor=white">
-
+<img src="assets/games.svg" width="100%" alt="Games I play"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF00E5,50:00F0FF,100:7B2FF7"/>
-
-<h2 id="-featured-project">🔥&nbsp; Featured Project</h2>
-
+<h2 id="-featured-project" hidden></h2>
 <div align="center">
-<table>
-<tr>
-<td align="center" width="640">
-<h3>📺 SX Sports</h3>
-<p>Free TV & Sports streaming platform — live cricket, football, and more, under <b>Rishi Entertainment Verse</b>.</p>
+<img src="assets/project.svg" width="100%" alt="Featured project — SX Sports"/>
+
 <a href="https://saptarshiorg.github.io"><img src="https://img.shields.io/badge/▶️_WATCH_LIVE-00F0FF?style=for-the-badge&logoColor=0D0221"></a>
 <a href="https://github.com/saptarshiorg"><img src="https://img.shields.io/badge/VIEW_SOURCE-7B2FF7?style=for-the-badge&logo=github&logoColor=white"></a>
-</td>
-</tr>
-</table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:7B2FF7,50:00F0FF,100:FF00E5"/>
-
-<h2 id="-github-stats">📊&nbsp; GitHub Stats</h2>
-
+<h2 id="-github-stats" hidden></h2>
 <div align="center">
 
 <img height="175" src="https://github-stats-extended.vercel.app/api?username=saptarshiorg&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=FF00E5&text_color=ffffff&bg_color=0D0221"/>
@@ -108,18 +67,14 @@
 
 </div>
 
-<!-- Contribution graph (ghchart) removed per request -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF00E5,50:00F0FF,100:7B2FF7"/>
-
-<h2 id="-connect-with-me">🤝&nbsp; Connect With Me</h2>
-
+<h2 id="-connect-with-me" hidden></h2>
 <div align="center">
+<img src="assets/connect.svg" width="100%" alt="Connect with me"/>
 
-<a href="https://github.com/saptarshiorg"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=00F0FF"></a>
-<a href="https://instagram.com/rishi.ev"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.youtube.com/@saptarshisamantaofficial"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://saptarshiorg.github.io"><img src="https://img.shields.io/badge/Website-Visit-00F0FF?style=for-the-badge&logoColor=0D0221"></a>
+<a href="https://github.com/saptarshiorg"><img src="https://img.shields.io/badge/GitHub-Follow-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF"></a>
+<a href="https://instagram.com/rishi.ev"><img src="https://img.shields.io/badge/Instagram-Follow-0D0221?style=for-the-badge&logo=instagram&logoColor=FF00E5"></a>
+<a href="https://www.youtube.com/@saptarshisamantaofficial"><img src="https://img.shields.io/badge/YouTube-Subscribe-0D0221?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
+<a href="https://saptarshiorg.github.io"><img src="https://img.shields.io/badge/Website-Visit-0D0221?style=for-the-badge&logoColor=00F0FF"></a>
 
 <br><br>
 

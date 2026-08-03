@@ -1,77 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=RISHI%20FORGE&fontAlign=50&fontAlignY=40&fontSize=72&animation=fadeIn&fontColor=ffffff&color=0:050816,20:0B1220,45:2563EB,70:00E5FF,100:7C3AED"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=RISHI%20FORGE&fontSize=72&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:050816,20:0B1220,45:2563EB,70:00E5FF,100:7C3AED"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=👋+HI,+I'M+RISHI+FORGE;🚀+FULL+STACK+DEVELOPER;⚡+WEB+•+UI+•+AUTOMATION+•+API;⚽+CREATOR+OF+EV+SPORTS;🇮🇳+FROM+WEST+BENGAL,+INDIA"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=👋+WELCOME+TO+MY+PROFILE;🚀+FULL+STACK+DEVELOPER;⚡+WEB+•+API+•+AUTOMATION;⚽+CREATOR+OF+EV+SPORTS;🇮🇳+WEST+BENGAL,+INDIA"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=saptarshiorg&style=for-the-badge&color=00E5FF"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=saptarshiorg&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF"/>
+
 <img src="https://img.shields.io/github/followers/saptarshiorg?style=for-the-badge&logo=github&color=7C3AED"/>
+
 <img src="https://img.shields.io/github/stars/saptarshiorg?style=for-the-badge&logo=github&color=00E5FF"/>
-</p>
 
 </div>
 
 ---
 
-# ⚡ SYSTEM STATUS
+# 💻 Terminal
 
-```javascript
-const developer = {
-    name: "RISHI FORGE",
-    role: "Full Stack Developer",
-    country: "India 🇮🇳",
-    location: "West Bengal",
-    interests: [
-        "Modern Web Development",
-        "UI / UX Design",
-        "REST APIs",
-        "Automation",
-        "Sports Streaming",
-        "Open Source"
-    ]
-};
+```bash
+> whoami
+
+Name        : RISHI FORGE
+Username    : saptarshiorg
+Role        : Full Stack Developer
+Country     : India 🇮🇳
+State       : West Bengal
+Focus       : Web Development
+Currently   : EV SPORTS
+Status      : Online 🟢
 ```
 
 ---
 
-# 🚀 TECH STACK
+# 👨‍💻 About Me
+
+```javascript
+const Rishi = {
+    name: "RISHI FORGE",
+    username: "saptarshiorg",
+    role: "Full Stack Developer",
+    location: "West Bengal, India",
+    skills: [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "REST APIs",
+        "Automation",
+        "Linux"
+    ],
+    hobbies: [
+        "Coding",
+        "Sports",
+        "Streaming",
+        "Open Source"
+    ]
+}
+```
+
+---
+
+# ⚡ What I Do
+
+- 🌐 Build modern web applications
+- 🚀 Develop REST APIs
+- 🎨 Design responsive UI/UX
+- 🤖 Create automation tools
+- ⚽ Develop sports streaming projects
+- 💻 Contribute to open source
+
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,express,mongodb,firebase,python,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,firebase,python,git,github,vscode,linux&theme=dark"/>
 
 </div>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saptarshiorg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=saptarshiorg&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=saptarshiorg&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://streak-stats.demolab.com?user=saptarshiorg&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saptarshiorg&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🏆 TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saptarshiorg&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saptarshiorg&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true"/>
 
 </div>
 
@@ -83,17 +111,53 @@ const developer = {
 
 ### 🌐 Official Website
 
-**https://saptarshiorg.github.io**
+https://saptarshiorg.github.io
 
-### 🚀 Mirror
+### 🚀 Mirror Website
 
-**https://saptarshixtrasports.pages.dev**
+https://saptarshixtrasports.pages.dev
 
 </div>
 
 ---
 
-# 🌍 SOCIALS
+# 👾 Currently Learning
+
+```text
+████████████████████░░  JavaScript
+
+███████████████████░░░  React
+
+██████████████████░░░░  Node.js
+
+█████████████████░░░░░  APIs
+
+██████████████████░░░░  Linux
+```
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build bigger open-source projects
+- ⚡ Improve full-stack development skills
+- 🌐 Expand EV SPORTS
+- 📱 Create better user experiences
+- 💡 Learn new technologies every day
+
+---
+
+# ⚡ Fun Facts
+
+- 💻 I enjoy building useful tools.
+- ⚽ Huge Cricket & Football fan.
+- 🐧 Linux enthusiast.
+- 🌙 Prefer dark themes.
+- 🚀 Always exploring new tech.
+
+---
+
+# 🌍 Connect With Me
 
 <div align="center">
 
@@ -113,21 +177,20 @@ const developer = {
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| ⚽ EV SPORTS | Live Sports Streaming Platform |
-| 🌐 API Projects | APIs & Automation |
-| 🎨 UI/UX | Modern Responsive Interfaces |
-| 🤖 Automation | Bots & Tools |
-| 💻 Open Source | GitHub Projects |
+| Project | Description |
+|---------|-------------|
+| ⚽ EV SPORTS | Sports Streaming Platform |
+| 🌐 Web Projects | Responsive Websites |
+| 🤖 Automation | API & Automation Tools |
+| 💻 Open Source | Community Projects |
 
 ---
 
 <div align="center">
 
-### ⚡ CODE • BUILD • CREATE • REPEAT ⚡
+## ⚡ "Dream • Build • Deploy • Repeat"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:7C3AED,50:00E5FF,100:050816"/>
 

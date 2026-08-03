@@ -35,41 +35,20 @@
 <h2 id="-about-me">🌌&nbsp; About Me</h2>
 
 <!--
-  NOTE: a fenced ```code``` block placed inside an HTML <table> cell
-  breaks GitHub's renderer — only the code side survives and the
-  second cell disappears. Using <pre><code> instead fixes this and
-  renders reliably in every README viewer (GitHub, GitHub mobile app,
-  gitlab, etc).
+  NOTE: GitHub's markdown sanitizer strips background-color / custom
+  CSS from raw HTML (tables, divs), so a real cyberpunk background
+  behind text is not possible with an HTML table — it always renders
+  on GitHub's plain default panel. The fix: bake the whole card into
+  an SVG *image* instead. Images aren't sanitized, so the dark
+  gradient, neon glow, and grid pattern all render exactly as drawn.
+
+  This file is at assets/about-me.svg in this repo — make sure you
+  commit it there (or update the src path below to wherever you put it).
 -->
 
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="55%">
-
-<pre>
-const rishi = {
-  location:          "🇮🇳 India",
-  role:              "Founder @ RISHI FORGE",
-  focus:             ["Web Development", "Automation", "Open Source"],
-  passion:           "Free TV & Sports Streaming",
-  currentlyBuilding: "SX Sports — a free streaming platform",
-  motto:             "Forge ideas into reality, one line of code at a time."
-}
-</pre>
-
-</td>
-<td valign="top" width="45%">
-
-&nbsp;&nbsp;🌐&nbsp; **Web Developer** — modern, fast websites<br>
-&nbsp;&nbsp;⚡&nbsp; **JS & Node.js** — core of everything I ship<br>
-&nbsp;&nbsp;🤖&nbsp; **Automation** — workflows that save time<br>
-&nbsp;&nbsp;📺&nbsp; **Streaming** — Free TV & Sports, my focus<br>
-&nbsp;&nbsp;🚀&nbsp; **Open Source** — always giving back<br>
-&nbsp;&nbsp;🏆&nbsp; **#1 Streamer** — East India title<br>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/about-me.svg" width="100%" alt="About Rishi"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF00E5,50:00F0FF,100:7B2FF7"/>
 

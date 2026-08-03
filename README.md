@@ -33,7 +33,7 @@
 
 ## 🌌 About Me
 
-```
+
 > const rishi = {
     location: "🇮🇳 India",
     role: "Founder @ RISHI FORGE",
@@ -42,7 +42,7 @@
     currentlyBuilding: "SX Sports — a free streaming platform",
     motto: "Forge ideas into reality, one line of code at a time."
   }
-```
+
 
 ---
 

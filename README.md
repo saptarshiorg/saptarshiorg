@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:071B4F,50:2563EB,100:38BDF8&text=RISHI%20FORGE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20with%20Code&descAlignY=60&descSize=18"/>
 </p>
@@ -138,4 +137,4 @@ const rishi = {
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:071B4F,50:2563EB,100:38BDF8"/>
 </p>
-````
+

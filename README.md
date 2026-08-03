@@ -1,4 +1,4 @@
-[README (5).md](https://github.com/user-attachments/files/30669992/README.5.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D0221,30:7B2FF7,60:C724B1,100:00F0FF&text=RISHI%20FORGE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20•%20Create%20•%20Stream&descAlignY=55&descColor=00F0FF&stroke=00F0FF&strokeWidth=1"/>

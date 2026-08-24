@@ -1,74 +1,188 @@
 
-<div align="center">
+# RISHI FORGE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=RISHI%20FORGE&fontSize=72&animation=fadeIn&fontColor=ffffff&color=0:050816,40:2563EB,70:00E5FF,100:7C3AED"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+Profile;💻+Full+Stack+Developer;⚡+Web+•+API+•+Automation;⚽+Creator+of+EV+SPORTS;🇮🇳+West+Bengal,+India"/>
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm12dGVhOXpneXVtaGZjYTdyc2N3b2x0dmN2cXQ2MzhydThza21oMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkEj4qJHMVoEfJCF8a/giphy.gif" width="720"/>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=saptarshiorg&style=for-the-badge&color=00E5FF)
-![](https://img.shields.io/github/followers/saptarshiorg?style=for-the-badge)
-![](https://img.shields.io/github/stars/saptarshiorg?style=for-the-badge)
-
-</div>
-
-# 👨‍💻 About Me
-
-```js
-const RishiForge = {
-  username:"saptarshiorg",
-  name:"RISHI FORGE",
-  role:"Full Stack Developer",
-  location:"West Bengal, India",
-  currentProject:"EV SPORTS",
-  skills:["JavaScript","React","Node.js","APIs","Automation","Linux"]
-}
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7c3aed&height=180&section=header&text=RISHI%20FORGE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="RISHI FORGE" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Forge Your Ideas. Build the Future.`</b>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+A developer space for building projects, experimenting with technology,
+and learning new things.
+```{=html}
+</p>
 ```
 
-- 🚀 Building modern web experiences
-- ⚽ Creator of EV SPORTS
-- 🌐 Open Source enthusiast
-- 🐧 Linux user
+------------------------------------------------------------------------
 
-# 🛠 Tech Stack
+## 👨‍💻 About Me
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,git,github,vscode,linux&theme=dark"/>
+-   🚀 Building web projects and software
+-   💻 Exploring multiple programming languages
+-   🎨 Interested in modern UI, design and development
+-   🧠 Always learning and experimenting
+-   🔧 Turning ideas into working projects
+
+------------------------------------------------------------------------
+
+## 🛠️ Languages & Technologies
+
+### Programming Languages
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,go,rust,php,ruby,kotlin,dart,swift" alt="Programming languages" />`{=html}
+```{=html}
 </p>
+```
+### Web Development
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saptarshiorg&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=saptarshiorg&theme=tokyonight&hide_border=true"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs,nodejs,express,django,flask" alt="Web technologies" />`{=html}
+```{=html}
 </p>
+```
+### Tools & Software
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saptarshiorg&theme=tokyo-night&hide_border=true&area=true"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,postman,linux,bash,powershell" alt="Developer tools" />`{=html}
+```{=html}
 </p>
+```
+### Databases & Cloud
 
-# ⚽ EV SPORTS
-
-- 🌐 https://saptarshiorg.github.io
-- 🚀 https://saptarshixtrasports.pages.dev
-
-# 📬 Connect
-
-<p align="center">
-<a href="https://github.com/saptarshiorg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://instagram.com/rishi.ev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://youtube.com/@saptarshisamantaofficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws" alt="Databases and cloud" />`{=html}
+```{=html}
 </p>
+```
+### Mobile & Other
 
-<div align="center">
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,dotnet" alt="Mobile and other technologies" />`{=html}
+```{=html}
+</p>
+```
 
-### ⭐ Dream • Build • Deploy • Repeat ⭐
+------------------------------------------------------------------------
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:7C3AED,50:00E5FF,100:050816"/>
+## 🌐 What I Work With
 
-</div>
+  Area          Technologies
+  ------------- ---------------------------------------------------
+  Frontend      HTML, CSS, JavaScript, TypeScript, React, Next.js
+  Backend       Node.js, Express, Python, Django, Flask
+  Programming   Python, C, C++, Java, Go, Rust, PHP
+  Database      MySQL, PostgreSQL, MongoDB, Firebase
+  Tools         VS Code, Git, GitHub, Docker, Figma, Postman
+  Cloud         AWS, Firebase
+  Mobile        Flutter, Kotlin, Swift
+
+------------------------------------------------------------------------
+
+## 🚀 Featured Projects
+
+### 📋 Todo App
+
+A clean and responsive task-management application.
+
+**Stack:** React · Node.js · MongoDB · Tailwind CSS
+
+### 🛒 E-Commerce Website
+
+A modern full-stack shopping platform.
+
+**Stack:** Next.js · TypeScript · MongoDB · Node.js
+
+### 💼 Developer Portfolio
+
+A personal portfolio for showcasing projects, skills and work.
+
+**Stack:** HTML · CSS · JavaScript · Tailwind CSS
+
+> Replace these project descriptions and links with your real
+> repositories.
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />`{=html}
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 📌 Currently Learning
+
+-   Advanced JavaScript & TypeScript
+-   Full-stack web development
+-   Modern UI/UX
+-   Cloud technologies
+-   Open-source development
+
+------------------------------------------------------------------------
+
+## 🤝 Connect
+
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/YOUR_USERNAME">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/YOUR_USERNAME/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+`<i>`{=html}Code. Debug. Learn. Repeat.`</i>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Building today, better than yesterday.`</b>`{=html}
+```{=html}
+</p>
+```

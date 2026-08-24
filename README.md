@@ -27,7 +27,6 @@ Hi! I'm **Saptarshi**, a developer and creator building websites, software and d
 - 💻 Programming
 - 🎨 UI / UX
 - 🌐 Web Projects
-- 🧠 Technology & Learning
 - ⚡ Digital Experiences
 
 ---
@@ -65,25 +64,29 @@ Hi! I'm **Saptarshi**, a developer and creator building websites, software and d
 📱 Responsive Design  
 ⚡ Modern UI  
 
-**Website:** https://evstreams.pages.dev/
+<p align="center">
+  <a href="https://evstreams.pages.dev/">
+    <img src="https://img.shields.io/badge/🌐%20VISIT%20EV%20STREAMS-111111?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 # 🛠️ TECH STACK
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,go,rust,php,kotlin,dart,swift" />
 </p>
 
-### 🌐 Web
+### 🌐 Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs,nodejs,express,django,flask" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Software
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,postman,linux,bash" />
@@ -168,13 +171,30 @@ Projects and experiments across multiple programming languages.
 
 ---
 
-# 📚 CURRENTLY LEARNING
+# 🌎 CONNECT WITH ME
 
-```text
-JavaScript / TypeScript
-Full-Stack Development
-Advanced CSS
-UI / UX
-Cloud Technologies
-Streaming Technologies
-Open Source
+<p align="center">
+
+<a href="https://github.com/saptarshiorg">
+<img src="https://img.shields.io/badge/GITHUB-saptarshiorg-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/saptarshiorg">
+<img src="https://img.shields.io/badge/INSTAGRAM-@saptarshiorg-ff007f?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⚒️ CODE • BUILD • CREATE • REPEAT</b>
+</p>
+
+<p align="center">
+  <i>Building today, better than yesterday.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:050505&height=100&section=footer" width="100%" />
+</p>

@@ -1,200 +1,105 @@
-# ⚒️ RISHI FORGE
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:171717,100:ff007f&height=190&section=header&text=RISHI%20FORGE&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
+[RISHI**FORGE**](#top)
 
-<p align="center">
-  <b>FORGE YOUR IDEAS. BUILD THE FUTURE.</b>
-</p>
+[About](#about) [Location](#location) [EV STREAMS](#featured) [Stack](#stack) [Contact](#contact)
 
-<p align="center">
-  Developer • Creator • Builder • Web Enthusiast
-</p>
+Kolkata, West Bengal, India
 
-<p align="center">
-  <a href="https://github.com/saptarshiorg">GitHub</a> •
-  <a href="https://instagram.com/saptarshiorg">Instagram</a>
-</p>
+# *Saptarshi**Samanta*
 
----
+I build web apps, streaming platforms and open-source projects. I forge ideas into things people can open in a browser.
 
-## 👨‍💻 ABOUT ME
+On Earth since --
 
-Hi! I'm **Saptarshi**, a developer and creator building websites, software and digital experiences.
+Next birthday in
 
-- 🚀 Web Development
-- 💻 Programming
-- 🎨 UI / UX
-- 🌐 Web Projects
-- ⚡ Digital Experiences
+**--**days
 
----
+**--**hours
 
-# 📺 EV STREAMS
+**--**minutes
 
-## 🚀 My Biggest Web TV & Streaming Project
+**--**seconds
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saptarshiorg/saptarshiorg.github.io/refs/heads/main/magenta.png" width="200" alt="EV STREAMS">
-</p>
+- API Developer
+- Graphic Poster Designer
+- Android App Developer
 
-<p align="center">
-  <b>EV STREAMS</b><br>
-  Web TV • Streaming • Sports • Entertainment
-</p>
+[Instagram](https://instagram.com/saaptaarshii) [GitHub](https://github.com/saptarshiorg)
 
-<p align="center">
-  <a href="https://evstreams.pages.dev/">
-    <img src="https://img.shields.io/badge/OPEN%20EV%20STREAMS-ff007f?style=for-the-badge&logo=google-tv&logoColor=white" />
-  </a>
-</p>
+## About
 
-### ✨ EV STREAMS
+Hi, I'm Saptarshi, a developer and creator. I make websites, software and digital experiences, from the layout to the last line of code.
 
-**EV STREAMS** is my biggest web TV and streaming project, designed as a modern browser-based entertainment platform.
+My work centres on the web: fast pages, clean interfaces and tools that feel good to use. I also design posters, build APIs and Android apps, and write in Python, C, C++ and Java.
 
-### Features
+Code. Build. Create. Repeat.
 
-📺 Web TV  
-⚽ Sports  
-🎬 Entertainment  
-🌐 Streaming Interface  
-🔎 Content Discovery  
-📱 Responsive Design  
-⚡ Modern UI  
+- NameSaptarshi Samanta
+- BrandRISHI FORGE
+- Based inKolkata, West Bengal
+- Age--
+- FocusWeb, APIs, apps, design
+- Email[See contact](#contact)
+- Instagram[@saaptaarshii](https://instagram.com/saaptaarshii)
 
-<p align="center">
-  <a href="https://evstreams.pages.dev/">
-    <img src="https://img.shields.io/badge/🌐%20VISIT%20EV%20STREAMS-111111?style=for-the-badge" />
-  </a>
-</p>
+## Location
 
----
+I'm based in Kolkata, West Bengal. The nearest airport is Netaji Subhas Chandra Bose International Airport, code CCU, about 13 km north-east of the city centre.
 
-# 🛠️ TECH STACK
+The map is a schematic, not to scale for roads.
 
-### 💻 Programming Languages
+[Kolkata on Maps](https://www.google.com/maps/search/?api=1&query=Kolkata%2C+West+Bengal) [CCU airport on Maps](https://www.google.com/maps/search/?api=1&query=22.6547%2C88.4467)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,go,rust,php,kotlin,dart,swift" />
-</p>
+## Project
 
-### 🌐 Web Development
+### EV STREAMS
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs,nodejs,express,django,flask" />
-</p>
+All global OTT, sports, IPTV and live TV. A free streaming hub.
 
-### 🔧 Tools & Software
+One browser-based hub for global OTT, sports and IPTV channels, plus live TV. Football, cricket, basketball, tennis, motorsports and more, free to watch and built to work on any screen size.
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,postman,linux,bash" />
-</p>
+- Live TV
+- Sports
+- Entertainment
+- Content discovery
+- Responsive
+- Modern UI
 
-### 🗄️ Database & Cloud
+[Open EV STREAMS](https://evstreams.pages.dev) [View source on GitHub](https://github.com/saptarshiorg/saptarshiorg.github.io)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws" />
-</p>
+## Stack
 
----
+### Languages
 
-# 🚀 PROJECTS
+- Python
+- C and C++
+- Java
 
-<table>
-<tr>
-<td width="50%">
+### Web
 
-## 📺 EV STREAMS
+- HTML
+- CSS
+- JavaScript
+- Responsive UI
+- APIs
 
-My biggest Web TV & Streaming project.
+### Tools
 
-**Web TV • Sports • Entertainment**
+- Git and GitHub
+- GitHub Pages
+- Android apps
 
-<a href="https://evstreams.pages.dev/">Visit EV STREAMS →</a>
+### Design
 
-</td>
+- UI and UX
+- Branding
+- Poster design
 
-<td width="50%">
+## Let's build something
 
-## 🌐 WEB PROJECTS
+[Email me](#contact)
 
-Modern websites and interactive experiences built with modern web technologies.
+[GitHub](https://github.com/saptarshiorg) [Instagram](https://instagram.com/saaptaarshii)
 
-**HTML • CSS • JavaScript**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🎨 UI / UX
-
-Modern interfaces, graphics, branding and digital experiences.
-
-</td>
-
-<td width="50%">
-
-## 💻 SOFTWARE
-
-Projects and experiments across multiple programming languages.
-
-**Python • C • C++ • Java**
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GITHUB STATISTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saptarshiorg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshiorg&layout=compact&theme=radical&hide_border=true&langs_count=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshiorg&theme=radical&hide_border=true" width="70%" />
-</p>
-
----
-
-# 📈 GITHUB ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saptarshiorg&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-# 🌎 CONNECT WITH ME
-
-<p align="center">
-
-<a href="https://github.com/saptarshiorg">
-<img src="https://img.shields.io/badge/GITHUB-saptarshiorg-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/saptarshiorg">
-<img src="https://img.shields.io/badge/INSTAGRAM-@saptarshiorg-ff007f?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>⚒️ CODE • BUILD • CREATE • REPEAT</b>
-</p>
-
-<p align="center">
-  <i>Building today, better than yesterday.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:050505&height=100&section=footer" width="100%" />
-</p>
+© Saptarshi Samanta. Forge your ideas. Build the future.
